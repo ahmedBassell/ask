@@ -1,7 +1,7 @@
-/simpldon/application/config/config.php
-/simpldon/application/config/database.php
-/simpldon/application/logs/log-*.php
-!/simpldon/application/logs/index.html
-/simpldon/application/cache/*
+/project/application/config/config.php
+/project/application/config/database.php
+/project/application/logs/log-*.php
+!/project/application/logs/index.html
+/project/application/cache/*
 
 */.htaccess
